@@ -1,0 +1,117 @@
+body {
+	background-image: url(img/space.jpg);
+	min-width: 1330px;
+	background-size: 130%;
+}
+
+ li {
+    list-style-type: none;
+   }
+
+   ul {
+    margin: 0;
+    padding-left: 0;
+	margin-top:10px;
+   }
+
+   td {
+	   cursor: pointer;
+   }
+
+.right {
+	float: right;
+}
+
+#username {
+	margin-top: 7px;
+	margin-right: 10px;
+	font-size: 15px;
+}
+
+.left {
+	float:left;
+}
+
+.makeitwhite {
+	color:#ffffff;
+}
+
+.bar {
+	text-align: right;
+	width: 100%;
+	padding: 10px;
+	height: 55px;
+}
+
+.center {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
+
+.ui.input {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.searches {
+	margin-top: 20px;
+	text-align: left;
+}
+
+#small {
+	width: 330px;
+}
+
+#big {
+	width: 500px;
+}
+
+.searches.center {
+	margin: auto;
+	margin-top: 20px;
+}
+
+#mainsearchbg {
+	position: relative;
+	width: 370px;
+}
+
+#mainsearchsm {
+	position: relative;
+	width: 200px;
+}
+
+
+#results {
+	width: 650px;
+	margin-left: 20px;
+	margin-top: 20px;
+	text-align: left;
+	float: left;
+	height: auto;
+}
+
+#schandres {
+	margin: auto;
+	width: 1020px;
+}
+
+.auth {
+	margin: auto;
+	width: 250px;
+	height: 250px;
+	position: absolute;
+}
+
+#details {
+	margin: auto;
+	width: 600px;
+}
+
+.centertext {
+	text-align: center;
+}
